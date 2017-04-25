@@ -8,3 +8,7 @@ This program is used to display the serial data that is transferred to a CSV fil
 for the .ino code to run properly, necessary DHT unified sensor and Adafruit_sensor libraries have to be installed
 
 everything else is here for your shitless disposal you SOB's
+
+the csv file is for testing, and it is the location to which your crappy cheapo sensor readings are stored
+
+Gloat away you sick sonsabitches
